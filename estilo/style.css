@@ -149,20 +149,6 @@ body{
     color: red;
 }
 
-/* Estilos para dispositivos maiores */
-
-.corpo {
-    position: relative;
-    width: 74%;
-    float: right;
-}
-
-.menu {
-    position: relative;
-    float: left;
-    width: 25%;
-}
-
 /* Estilos para dispositivos menores (max-width: 600px) */
 
 @media only screen and (max-width: 600px) {
